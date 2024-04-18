@@ -5,7 +5,7 @@
 ## 프로그램에 대한 설명
 - 이 프로그램은 웹캠을 사용하지않고 이미지를 이용합니다.
 - 2가지 Class를 식별합니다.(자전거, 오토바이)
-![acc_loss](https://github.com/ChangbaePark/Practice_OpenCV2/assets/162611760/f3e2df63-a9f2-4958-af64-39e21733d52c)
+- ![acc_loss](https://github.com/ChangbaePark/Practice_OpenCV2/assets/162611760/f3e2df63-a9f2-4958-af64-39e21733d52c)
 
 ## 파일 설명
 
